@@ -1,0 +1,10 @@
+streamlit==1.25.0
+pandas==2.0.3
+numpy==1.25.0
+matplotlib==3.8.0
+wrds==3.1.6
+langchain==0.120.0
+openai==0.27.8
+scipy==1.11.3
+python-dotenv==1.0.0
+psycopg2-binary==2.9.6
